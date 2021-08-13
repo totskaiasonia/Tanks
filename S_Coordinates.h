@@ -1,5 +1,5 @@
-#pragma once
-struct S_Coordinates {
-	int x;
-	int y;
-};
+//#pragma once
+//struct S_Coordinates {
+//	int x;
+//	int y;
+//};
